@@ -27,7 +27,7 @@ I am a PhD candidate in Management Science with a specialization in **Organizati
 
 <br>
 
-I have studied in China, Spain, the US, and the UK. During my PhD, I spent six months as a visiting doctoral student at London Business School during the 2023-2024 academic year. Prior to joining the PhD program at ESADE, I obtained a Master's degree from the University of Illinois Urbana-Champaign (USA), and a Master's and a Bachelor's degree from Nanjing University (China).
+I have studied in China, Spain, the US, and the UK. As part of my doctoral studies, I spent six months as a visiting doctoral student at London Business School during the 2023-2024 academic year. Prior to joining the PhD program at Esade, I obtained a Master's degree from the University of Illinois Urbana-Champaign (USA), and a Master's and a Bachelor's degree from Nanjing University (China).
 
 <br>
 
