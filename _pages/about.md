@@ -80,7 +80,13 @@ Click to view my <a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Curren
 
 - Loewenstein, J., & **Wang, C.** (Presenter) (2016, June) Social Support for Creative Agreements: Distinct Effects of Respect and Trust [Oral presentation]. *The 29th Annual Conference of International Association for Conflict Management (IACM)*, New York City, USA.
 
+<span class='anchor' id='teaching'></span>
+# Teaching
 
+**Lecturer, TBS (Formerly Toulouse Business School)** · Fall 2025
+
+- Fundamentals of Econometric Models (Undergraduate) · Teaching evaluation: 4.83/5
+- Functional Skills Data Analytics (Undergraduate) · Teaching evaluation: 4.83/5
 
 <br>
 <br>
