@@ -87,7 +87,7 @@ Click to view my <a href="https://chaodwang.github.io/_pages/CV_Chao_Wang_Curren
 <span class='anchor' id='teaching'></span>
 # Teaching
 
-**Lecturer, TBS Education (Formerly Toulouse Business School), Barcelona** · Fall 2025
+**Lecturer, TBS Education (Formerly Toulouse Business School)** · Barcelona · Fall 2025
 
 - Fundamentals of Econometric Models (Undergraduate) · Teaching evaluation: 4.83/5
 - Functional Skills Data Analytics (Undergraduate) · Teaching evaluation: 4.83/5
