@@ -23,19 +23,19 @@ Welcome to my personal website!
 
 <br>
 
-I am a PhD candidate in Management Sciences with a specialization in **Organizational Behavior** at [Esade Business School](https://www.esade.edu/en/about-us/who-we-are) in Barcelona. My research investigates how **social norms and norm deviations** shape key workplace decisions, particularly in negotiations and human resource decisions. My dissertation, for example, examines how precedents that deviate from established norms create powerful situational constraints for negotiators. My other research streams explore how fairness norms influence equity perceptions across different demographic groups and how conversational norms affect information processing and sharing in negotiations. My methodological toolkit is versatile, using tools ranging from traditional methods (e.g., lab/online experiments and surveys) to computational linguistics tools (e.g., word embeddings and large language models).
+I will be joining CUNEF Universidad in Madrid as a Lecturer in Management in September 2026. I recently received my PhD in Management Sciences with a specialization in **Organizational Behavior** from [Esade Business School](https://www.esade.edu/en/about-us/who-we-are) in Barcelona. My research investigates how **social norms and norm deviations** shape key workplace decisions, particularly in negotiations and human resource decisions. My dissertation, for example, examines how precedents that deviate from established norms create powerful situational constraints for negotiators. My other research streams explore how fairness norms influence equity perceptions across different demographic groups and how conversational norms affect information processing and sharing in negotiations. My methodological toolkit is versatile, using tools ranging from traditional methods (e.g., lab/online experiments and surveys) to computational linguistics tools (e.g., word embeddings and large language models).
 
 <br>
 
-I have studied in China, Spain, the US, and the UK. As part of my doctoral studies, I spent six months as a visiting scholar at London Business School during the 2023-2024 academic year. Prior to joining the PhD program at Esade, I obtained a Master's degree from the University of Illinois Urbana-Champaign (USA), and a Master's and a Bachelor's degree from Nanjing University (China).
+I have studied and worked in China, Spain, the US, and the UK. As part of my doctoral studies, I spent six months as a visiting scholar at London Business School during the 2023-2024 academic year. Prior to joining the PhD program at Esade, I obtained a Master's degree from the University of Illinois Urbana-Champaign (USA), and a Master's and a Bachelor's degree from Nanjing University (China).
 
 <br>
 
-In my free time, I enjoy exploring new skills and activities that I didn't have the opportunity to learn earlier in life. Recently, I've taken up surfskating and tennis, both of which challenge me to stay focused and agile.
+In my free time, I enjoy exploring new skills and activities that I did not have the opportunity to learn earlier in life. Recently, I have taken up surfskating and tennis, both of which challenge me to stay focused and agile.
 
 <br>
 
-Drop me a note via this [link](mailto:chao.wang@esade.edu) if you'd like to connect!
+Drop me a note via this [link](mailto:chao.wang@cunef.edu) if you'd like to connect!
 
 <span class='anchor' id='cv'></span>
 # Curriculum Vitae
