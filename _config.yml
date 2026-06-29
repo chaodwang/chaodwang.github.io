@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chao Wang"
-description              : "PhD candidate in Management Sciences"
+description              : "PhD in Management Sciences (Organizational Behavior)"
 repository               : "chaodwang/chaodwang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BjYWVj0AAAAJ"
-  email            : "chao.wang@esade.edu"
+  email            : "chao.wang@cunef.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
